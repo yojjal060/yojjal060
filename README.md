@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yojjal Sharma</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🔭 I’m currently working on [JavaScript](https://github.com/yojjal060/jsLearning)
+- 🔭 I’m currently working on [React](https://github.com/yojjal060/reactLearning)
 
 - 🌱 I’m currently learning TheOdinProject **OTP React**
 
