@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning TheOdinProject
 
-- 👨‍💻 All of my projects are available at [yojjalsharma.com.np](www.yojjalsharma.com.np)
+- 👨‍💻 All of my projects are available at [yojjalsharma.com.np](https://www.yojjalsharma.com.np)
 
 - 💬 Ask me about **react, JavaScript**
 
